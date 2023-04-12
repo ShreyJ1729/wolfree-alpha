@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wolfree/static/css/main.073c9b0a.css",
-    "main.js": "/wolfree/static/js/main.9414bd93.js",
-    "static/js/787.5a6260eb.chunk.js": "/wolfree/static/js/787.5a6260eb.chunk.js",
-    "index.html": "/wolfree/index.html",
-    "main.073c9b0a.css.map": "/wolfree/static/css/main.073c9b0a.css.map",
-    "main.9414bd93.js.map": "/wolfree/static/js/main.9414bd93.js.map",
-    "787.5a6260eb.chunk.js.map": "/wolfree/static/js/787.5a6260eb.chunk.js.map"
+    "main.css": "/wolfree-alpha/static/css/main.073c9b0a.css",
+    "main.js": "/wolfree-alpha/static/js/main.a79846ce.js",
+    "static/js/787.5a6260eb.chunk.js": "/wolfree-alpha/static/js/787.5a6260eb.chunk.js",
+    "index.html": "/wolfree-alpha/index.html",
+    "main.073c9b0a.css.map": "/wolfree-alpha/static/css/main.073c9b0a.css.map",
+    "main.a79846ce.js.map": "/wolfree-alpha/static/js/main.a79846ce.js.map",
+    "787.5a6260eb.chunk.js.map": "/wolfree-alpha/static/js/787.5a6260eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9414bd93.js"
+    "static/js/main.a79846ce.js"
   ]
 }
