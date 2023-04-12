@@ -1,6 +1,7 @@
 {
   "name": "wolfree",
   "version": "0.1.0",
+  "homepage": "https://shreyj1729.github.io/wolfree-alpha",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.5.5",
@@ -14,6 +15,7 @@
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
     "framer-motion": "^10.11.5",
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -22,6 +24,8 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
