@@ -12,7 +12,7 @@ function App() {
   const [intermediateText, setIntermediateText] = useState("")
   const [error, setError] = useState("")
   const [loading, setLoading] = useState(false)
-  const [resultCollapse, setResultCollapse] = useState(false)
+  const [resultCollapse, setResultCollapse] = useState(true)
 
   const parser = useMemo(() => { return new DOMParser() }, [])
 
