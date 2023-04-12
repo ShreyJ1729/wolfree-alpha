@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wolfree/static/css/main.073c9b0a.css",
+    "main.js": "/wolfree/static/js/main.9414bd93.js",
+    "static/js/787.5a6260eb.chunk.js": "/wolfree/static/js/787.5a6260eb.chunk.js",
+    "index.html": "/wolfree/index.html",
+    "main.073c9b0a.css.map": "/wolfree/static/css/main.073c9b0a.css.map",
+    "main.9414bd93.js.map": "/wolfree/static/js/main.9414bd93.js.map",
+    "787.5a6260eb.chunk.js.map": "/wolfree/static/js/787.5a6260eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9414bd93.js"
+  ]
+}
